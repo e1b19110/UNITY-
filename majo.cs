@@ -24,7 +24,6 @@ public class majo : MonoBehaviour
     AudioSource sound;
     public AudioClip effect;
 
-
     //ゲーム開始時に一度だけ行う処理
     void Start()
     {
